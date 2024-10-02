@@ -24,3 +24,6 @@ pip3 install -r requirements.txt
 python3 main.py
 # It'll generate a 'translated.json' file.
 ```
+
+### Preview
+![](./image.png)
